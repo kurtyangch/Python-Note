@@ -77,7 +77,6 @@ user_age = iq/4(iq/4這個計算出值的部分是expression)
 
 ### Variable
 
-![Python%20Basics(Data%20type%20and%20structure)%2060c6ea9d467e40e0ba8f75964eb99e6a/Untitled.png](Python%20Basics(Data%20type%20and%20structure)%2060c6ea9d467e40e0ba8f75964eb99e6a/Untitled.png)
 
 變數如果是大寫代表後面數字不要更動
 
